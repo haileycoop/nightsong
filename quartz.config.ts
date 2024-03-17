@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Nightsong",
+    pageTitle: "Nightsong Player Portal",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
