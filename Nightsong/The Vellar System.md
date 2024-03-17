@@ -1,0 +1,3 @@
+When the refugees discovered the strange unnamed system that was on an escape course from the galaxy, the came to call that system's sun "The Traveller". As the the original civilisations fell, this name drifted into the name "Vellar". The residents of Ondra / Wanderer may refer to the star as "the sun" or "our sun", but also know that the name of the sun is "Vellar". They have a sense, unusual for natively evolved species, that there are different worlds each with their own sun that may have its own name.
+
+Vellar is a yellow sun, like Sol, mainly for ease of worldbuilding. There is only one planet in the Vellar system: the dark gas giant [[Var]].

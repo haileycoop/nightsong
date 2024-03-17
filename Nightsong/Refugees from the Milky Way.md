@@ -1,0 +1,6 @@
+- [[Humans]] from Earth
+- [[Dwarves]] from a large rocky planet with heavy gravity and a hostile surface
+- [[Elves]] from some too easy, too lovely place
+- [[Orcs]] - similar origin to humans
+- [[Gnomes]] - Also from a planet with a hostile surface but lesser gravity than dwarves
+- 
