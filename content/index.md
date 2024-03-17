@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Nightsong Player Portal
 ---
+[[Welcome to Nightsong]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Test
