@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"51ec774acf2b59bc","type":"text","text":"# The Voyage\nRefugees from a hostile and dying galaxy are carried across the void to a new galaxy.","x":-820,"y":-540,"width":2700,"height":120},
-		{"id":"91de3ba8e77e2bf4","type":"text","text":"## Cautious explorations\n\nA new generation of travellers starts to push for settlement if The Wanderer, as their technology depletes due to scarce resources.","x":-428,"y":-380,"width":350,"height":400,"color":"5"},
+		{"id":"91de3ba8e77e2bf4","type":"text","text":"## Early settlement\n\nA new generation of travellers starts to push for settlement of The Wanderer, as their technology depletes due to scarce resources.","x":-428,"y":-380,"width":350,"height":400,"color":"5"},
 		{"id":"a429503a19783236","type":"text","text":"## The fall\nOver many generations, all tech is lost, and the original stories and knowledge give way to myths and legends. The name \"Wanderer\" decays into something like \"Ondra\".","x":-37,"y":-380,"width":350,"height":400,"color":"5"},
 		{"id":"b8fb6ff6bcfd340f","type":"text","text":"## The churn\n\nMany civilisations rise and fall, creating a world covered in factions, ruins and politics. But because Ondra so strongly resists being colonised, it can never become truly covered in kingdoms. Unclaimed \"wastelands\" are the norm between kingdoms.\n\n","x":355,"y":-380,"width":350,"height":400,"color":"5"},
 		{"id":"bf123cad4c15d733","type":"text","text":"## The rediscovery\n\nThe campaign takes place in this period.\n\nSome great threat has led the Skywhales to engage for the first time with the humanoids. There is a power in Ondra that only the humanoids can hope to access, because they have become indigenous to Ondra.","x":747,"y":-380,"width":350,"height":400,"color":"4"},
@@ -18,9 +18,13 @@
 		{"id":"007ef096218de7b8","type":"text","text":"### The disastrous first visit to \"The Wanderer\"","x":-820,"y":1060,"width":350,"height":157},
 		{"id":"650134e8a50be5d2","type":"text","text":"Ideas\n- anger as one species with a gen ship exacts a high price for helping another species terraform a moon\n- elves were never big explorers and try to maintain home comforts, but become detached and depressed as existence becomes more spartan and there is no land to connect to","x":-820,"y":1460,"width":350,"height":508},
 		{"id":"6a02b578123dcb5b","type":"text","text":"### Other footholds gained far away","x":-428,"y":703,"width":350,"height":157},
-		{"id":"b7b6bc1aab8a60a4","type":"text","text":"### The skywhales are revealed ","x":747,"y":120,"width":350,"height":157},
+		{"id":"b7b6bc1aab8a60a4","type":"text","text":"### The current campaign","x":747,"y":120,"width":350,"height":157,"color":"4"},
 		{"id":"cdd06642aaf9e2e9","type":"text","text":"## Arrival\n\nThe system arrives in the new home galaxy, either as a beneficent arrival, or plagueship, host to a great threat.","x":1530,"y":-380,"width":350,"height":400},
-		{"id":"ff9638118de28db7","x":-1520,"y":-380,"width":520,"height":883,"type":"text","text":"# Palette\n\n## Yes\n\n- Skywhales\n- Leshies\n- Spirits / Monsters\n- Great kingdoms / cities\n- Ancient ruins\n- WIld magical terrain\n\n## No\n\n- Anachonisms, modern stuff (\"pizza delivery\")\n- Time travel\n- Multiple timelines / paralellel universes"}
+		{"id":"ff9638118de28db7","type":"text","text":"# Palette\n\n## Yes\n\n- Skywhales\n- Leshies\n- Spirits / Monsters\n- Great kingdoms / cities\n- Ancient ruins\n- WIld magical terrain\n\n## No\n\n- Anachonisms, modern stuff (\"pizza delivery\")\n- Time travel\n- Multiple timelines / paralellel universes","x":-1520,"y":-380,"width":520,"height":883},
+		{"id":"4adef4a59fe1280a","type":"text","text":"### [[The Crush]]\nOndra smashes the most successful settllements by collding two continents","x":-37,"y":120,"width":350,"height":157},
+		{"id":"5a321680622f4bf0","type":"text","text":"### The skywhales are revealed \nThe [[Skywhales]] make themselves widely known to the people of Ondra. This ideally is a big moment in the current campaign.","x":747,"y":311,"width":350,"height":249},
+		{"id":"5c88223a83d0a31e","type":"text","text":"### Founding of the great coastal cities","x":-428,"y":903,"width":350,"height":157},
+		{"id":"1d0e6bb762216c53","type":"text","text":"### Founding of [[The Bastion]]","x":-428,"y":1103,"width":350,"height":157}
 	],
 	"edges":[]
 }
