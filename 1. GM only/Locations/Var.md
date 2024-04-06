@@ -1,3 +1,9 @@
+---
+type: location
+---
+
+### Summary
+
 Vard is a dark gas giant in the [[The Vellar System|Vellar System]]. 
 
 It's dark colour is the result of ...
