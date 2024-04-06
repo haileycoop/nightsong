@@ -1,6 +1,8 @@
 ---
 title: Welcome to Nightsong
 ---
+![[Nightsong_landscape.jpeg]]
+
 You live on Ondra, a lush, abundant world, full of natural wonders and ancient ruins. Life here enforces its right to sprawl wildly. And you are in the way.
 
 Ondra is the only home your people have ever had. And yet, it is wilful and creative in its attempts to destroy you. Monsters visit often. Disasters are expected.
