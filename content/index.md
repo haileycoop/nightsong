@@ -11,7 +11,7 @@ Many great civilisations have risen here, some lasting millennia. Few have manag
 
 Right now, that matters little. You quietly watch the night sky with a peaceful mind. The dark world Var looms on the night horizon. It is a great black disc, most easily seen because of the the simmering stars it blocks. 
 
-It would be easy to think that Vard must be home to harsher horrors than Ondra, if it were not for this moment. In the middle of every night, when Vard it is at its apogee, Ondra seems to quiet and still. The ancestors say that if you listen deeply, you can hear Var singing.
+It would be easy to think that Var must be home to harsher horrors than Ondra, if it were not for this moment. In the middle of every night, when Var it is at its apogee, Ondra seems to quiet and still. The ancestors say that if you listen deeply, you can hear Var singing.
 
 It is Nightsong, the gentle hour. At Nightsong we wake from sleep to share the stillness, and tell hopeful stories of the home that we haven't yet made.
 
@@ -33,32 +33,45 @@ You've arrived at Durinson's Rest, the town that guards the only known pass into
 
 ### Style: old school sandbox into grand narrative
 
-I really like character development, big narrative arcs, and GM-created mysteries. 
+**Sandbox:** I really like character development, big narrative arcs, and GM-created mysteries. At the same time, I want to reduce my prep time and challenge myself to embrace emergent stories. We'll start off doing old school sandbox hexcrawls. As stories emerge, I'll lean more into developing grand narratves.
 
-At the same time, I want to reduce my prep time and challenge myself to embrace emergent stories.
+**Dangerous:** Character death won't be frequent, but it might happen. You will have the possibility of running into things over your level, and might need to run away or hide.
 
-We'll start off doing old school sandbox hexcrawls. As stories emerge, I'll lean more into developing grand narratives.
+**Magic:** Magic is rare, but known about. Everyone has heard of or maybe met a spellcaster, but only a small percentage the population can use magic.
 
-Character death won't be frequent, but it might happen. You will have the possibility of running into things over your level, and might need to run away or hide.
+**Sci-fantasy:** The game will start off with more of a fantasy vibe, but there are definitely some sci-fi and steampunk elements waiting to be revealed.
 
-### Details: a short campaign
+**Politics:** There will be factions struggling against each other, and the characters may get mixed up in it. At the same time, we'll avoid getting too much into a politics simulator, or making immersion-breaking analogues to today's politics.
 
-Characters will start at level 5, and we'll go for maybe 6 sessions before re-evaluating. I can't commit to a full fledged multi-year campaign.
+**Simulation:** We like keeping track of stuff and managing some of the minutiae. You will need to concern yourself with rations and encumbrance. We may use spreadsheets. But it won't be super strict and we will hand-wave sometimes to keep the story flowing.
 
-It may also be hard to find a regular time to play, so we'll likely be scheduling sessions one at a time. For this reason, I'm keen to keep the group at 4 players.
 
-I'll be pretty open to using any official Paizo source materials. Your weird builds will be a good challenge for how to make that fit into my world. But please be ready to work with me on developing your backstory.
+### Real world details: a short campaign
 
-I'm also open to using the [free archetype alternate rules](https://www.google.com/search?q=pathfinder+2e+free+archetype+rules&sca_esv=4752484a868d0ce9&sxsrf=ACQVn0-cUry0vj6MbSZ7ynoXwwJ9h7yQDw%3A1712392503774&ei=NwkRZq7nLtfWseMP9_2i0Aw&ved=0ahUKEwju3pyXl62FAxVXa2wGHfe-CMoQ4dUDCBA&uact=5&oq=pathfinder+2e+free+archetype+rules&gs_lp=Egxnd3Mtd2l6LXNlcnAiInBhdGhmaW5kZXIgMmUgZnJlZSBhcmNoZXR5cGUgcnVsZXMyBRAAGIAEMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgMyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI3xFQ2gZY5w9wAXgBkAEAmAGzAaAByAaqAQMwLjW4AQPIAQD4AQGYAgWgAq0FwgIKEAAYRxjWBBiwA8ICBxAjGLACGCfCAgYQABgHGB6YAwCIBgGQBgiSBwMxLjSgB-Mj&sclient=gws-wiz-serp), which allows players to get a free archetype representing some shared history (e.g. we're all barbarians, or all pirates).
+**Level:** Characters will start at level 5. We'll decided together whether we prefer XP or milestone advancement.
+
+**Length:** We'll go for about 6 sessions before re-evaluating. I can't commit to a full fledged multi-year campaign. But if we get into a good groove, and I don't get pulled away by work, then it could last longer.
+
+**Scheduling:** It may be hard for me to find a regular time to play, so we'll likely be scheduling sessions one at a time. For this reason, I'm keen to keep the group at 4 players.
+
+**Source materials:** I'm open to using any official Paizo source materials (but not third party or homebrew). Your weird builds will be a good challenge for how to make that fit into my world. But please be ready to work with me on developing your backstory.
+
+**Free archetypes:** I'm also open to using the [free archetype alternate rules](https://www.google.com/search?q=pathfinder+2e+free+archetype+rules&sca_esv=4752484a868d0ce9&sxsrf=ACQVn0-cUry0vj6MbSZ7ynoXwwJ9h7yQDw%3A1712392503774&ei=NwkRZq7nLtfWseMP9_2i0Aw&ved=0ahUKEwju3pyXl62FAxVXa2wGHfe-CMoQ4dUDCBA&uact=5&oq=pathfinder+2e+free+archetype+rules&gs_lp=Egxnd3Mtd2l6LXNlcnAiInBhdGhmaW5kZXIgMmUgZnJlZSBhcmNoZXR5cGUgcnVsZXMyBRAAGIAEMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgMyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI3xFQ2gZY5w9wAXgBkAEAmAGzAaAByAaqAQMwLjW4AQPIAQD4AQGYAgWgAq0FwgIKEAAYRxjWBBiwA8ICBxAjGLACGCfCAgYQABgHGB6YAwCIBgGQBgiSBwMxLjSgB-Mj&sclient=gws-wiz-serp), which allows players to get a free archetype representing some shared history (e.g. we're all barbarians, or all pirates).
 
 ### Players: experienced and queer
 
-**Queer:** We want a safe and relaxed vibe, so we'll be looking for players who are queer or at least have queer friends.
+**Queer:** We want a safe and relaxed vibe, so we'll be looking for players who are queer (like us) or at least have queer friends.
 
-**Experienced:** We also want players who are experienced with Pathfinder 2. Or if not, they should be ready to put in the time necessary to learn how their characters work, and learn all the game rules that relate to how their characters work. As the GM, I want you to help me look up rules, and make fair rulings.
+**Knowledgable:** We're keen to get off to a running start. If you are a seasoned player of Pathfinder 2, or TTRPGs generally, that's great. If not, that's cool too. Just be ready to put the time in to learn outside of game sessions, and we'll be there to answer questions. Whatever your experience level, I need you to be the expert on your character and the associated rules.
 
 **Durable:** Since our sessions might not be as frequent, we want to be able to run longer sessions (4 hours or more).
 
 **Proactive:** Your characters need to be motivated and have reasons to be in the area where the campaign begins. A sandbox style game has a lot more give and take between players and GM.
 
 **Responsible:** Everyone's fun is everyone's responsibility. Please be on time, present, and communicative. We want to get the most out of this experience and the time we put into it.
+
+### Interested?
+
+Hit me up in whatever platform you found this on. I'm mainly trying to recruit players through trusted friend networks, so chances are, I already know you. But we're open to meeting someone new, if they feel excited about this campaign.
+
+As we find our other 3 players, we'll bring you into the discord, and start sharing ideas and working out details.
