@@ -52,7 +52,9 @@ You've arrived at Durinson's Rest, the town that guards the only known pass into
 
 **Length:** We'll go for about 6 sessions before re-evaluating. I can't commit to a full fledged multi-year campaign. But if we get into a good groove, and I don't get pulled away by work, then it could last longer.
 
-**Scheduling:** It may be hard for me to find a regular time to play, so we'll likely be scheduling sessions one at a time. For this reason, I'm keen to keep the group at 4 players.
+**Scheduling:** It may be hard for me to find a regular time to play, so we'll likely be scheduling sessions one at a time. For this reason, I'm keen to keep the group at 4 players. Also, I'm away for 5 weeks in June and July. So we can start chatting now, but might not start playing til late July.
+
+**Location:** In person, in a flat in Fitzroy.
 
 **Source materials:** I'm open to using any official Paizo source materials (but not third party or homebrew). Your weird builds will be a good challenge for how to make that fit into my world. But please be ready to work with me on developing your backstory.
 
