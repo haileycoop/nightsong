@@ -1,3 +1,10 @@
+---
+type: location
+oneliner:
+---
+
+### Summary
+
 - Created by [[The Crush]]
 - Contains the ruins of the first settler civilisation
 - Now overgrown with thick jungle and swamps

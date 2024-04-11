@@ -1,3 +1,9 @@
+---
+type: location
+oneliner:
+---
+
+### Summary
 The strange and magical planet on which our adventures takes place.
 
 It was called "The Wanderer" by the refugees from the Milky Way, which decayed into "Ondra" during the Fall.

@@ -1,3 +1,10 @@
+---
+type: location
+oneliner:
+---
+
+### Summary
+
 A town born from the ruins of [[The Bastion]], embraces a radical culture in harmony with the wilds, controlling access to the depths below.
 
 ### Guardianship of the Bastion

@@ -1,5 +1,6 @@
 ---
 type: location
+oneliner: the dark world that hangs in the night sky of Ondra
 ---
 
 ### Summary

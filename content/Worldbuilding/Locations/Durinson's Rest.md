@@ -1,8 +1,10 @@
 ---
 type: location
+oneliner: A corrupt town guarding the pass into [[The Maw]]
 ---
 
 ### Summary
+*`= this.oneliner`*
 
 This town guards the pass into [[The Maw]]
 

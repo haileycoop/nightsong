@@ -1,5 +1,6 @@
 ---
 type: location
+oneliner:
 ---
 ### Summary
 
