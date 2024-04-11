@@ -1,3 +1,6 @@
+> **Spoilers for Players - Turn Back!**
+> This is the Worldbuilding section, full of secrets
+
 ### obsidian config
 
 - way to create a worldbuilding portal

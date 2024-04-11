@@ -1,3 +1,6 @@
+> **Spoilers for Players - Turn Back!**
+> This is the Worldbuilding section, full of secrets
+
 #### Player facing
 
 - [Campaign Creator Form](https://docs.google.com/document/d/1jIzo3VKLag53-LJJ47g69XyCst3mcdpFOOVPRhkb9nA/edit)

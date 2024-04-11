@@ -1,3 +1,9 @@
+---
+type: ancestry
+---
+> **Spoilers for Players - Turn Back!**
+> This is the Worldbuilding section, full of secrets
+
 An ancient species living in gas giants. They are similar to the Dwellers in The Algebraist by Iain M. Banks. They are isolationist, slow moving, but highly technologically advanced.
 
 They are the ones that set the [[The Vellar System|Vellar System]] on its escape course, using powerful space-warping technology. Maybe it was to escape the threat, or help the humanoids escape, or because they want to bring the wormhole portal at the centre of [[Var]] across the galactic void.
