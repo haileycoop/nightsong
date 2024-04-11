@@ -59,3 +59,4 @@ Encounters
 - This works out as these civilisations need to be on constant guard against threat
 - Species with darkvision should have some issues in full daylight
 - I want an economy around monster parts as valuable ingredients for elixirs and magical reagents, so that hunting monsters is desirable
+	- Check out Monsters of Drakkenheim for rules on monster parts
