@@ -1,5 +1,6 @@
 ---
 type: ancestry
+oneliner: a summary of all Pathfinder core ancestries, until I build out articles for them
 ---
 > **Spoilers for Players - Turn Back!**
 > This is the Worldbuilding section, full of secrets

@@ -27,6 +27,10 @@ How will you make a future for yourself, and your people, in the wilds of Ondra?
 
 Nightsong is an original world by me, Hailey. It's based on some ideas I've been bouncing around for a while, but I decided to work on it actively to run a short Pathfinder 2 campaign for my friend Abigail. As we play the campaign, I'll be taking ideas from the players, and the story we tell together, to flesh out the world.
 
+At the same time, I will be working with another set of friends who are interested in the worldbuilding side of things. I will use games like Microscope, Follow, i'm sorry did you say street magic, and more, to build out the setting.
+
+If you want to be a player, and you don't like being spoiled, then don't read the worldbuilding content (if you happen to find it).
+
 ### Campaign brief
 
 You've arrived at Durinson's Rest, the town that guards the only known pass into the Maw. Why you're here is up to you. Most people will assume you are treasure hunters. The town is filled with rumours about where to find treasure, and people keen to get your treasure off you once you've found it. So gear up, pick a direction, and see what's out there. 
