@@ -9,6 +9,66 @@ creatures:
 
 
 
+### 17 April session at Kirk and Andy's
+
+- What if no hereditary inheritance tendencies?
+	- More about journeymen, and handing off to the best person
+- Mining in focus
+	- Make sure to mine things that society can use like iron
+	- But also stuff like dawnsilver / adamantium for fighting or other advanced purposes
+	- Artificers may need some more weird stuff
+	- Durinson's Rest is the first place that this key mineral is developed as a motherlode
+- Faction: the Almanac
+	- They have a printing press
+	- The only print this one book each year that is a weird collection of knowledge, news and prophecy
+	- People look forward to it
+	- They are a "travelling college" that gathers knowledge firsthand, travelling all over throughout the year
+	- They might also deliver letters for people or do other side favours
+	- Maybe there are counterfeit almanac sellers, or competing sellers
+	- "Only buy your Almanac directly from the Dunforth Travelling College!"
+	- Maybe there's a main caravan travelling a ring similar to Station 11, and little wagons that go off to side towns
+	- Maybe they have huge beasts in their caravans - burden / protection - a Diprotodon?
+	- Militantly neutral
+- Faction: tech gizmo fab faction
+- Faction: logistics and shipping
+- Faction: monsters as pets / domesticating Kaiju
+- Faction: healers - just out there to reduce suffering - but they are not good at it.
+	- Everyone knows it's a 50/50 chance of them helping you
+	- They are against actual magical healing
+- Faction: Echo-philes - they see echos as a legitimate form of life
+	- Or people try to use them, or trick families into letting them come back
+	- Or it's not echos, but there's just a kingdom that uses undead for positive social purposes (people opt in to undead service etc)
+- How would different kingdoms / factions represent themselves in [[Durinson's Rest]] ?
+	- Embassies
+	- Spies
+	- Emissaries
+- A traveller / mobile community - still very powerful
+	- These could be the airship people
+- A wall-building traditional type
+	- Ringed cities
+	- Not actually sustainable in this world but people keep trying it
+	- Moss that quickly eats away at stone
+		- Or just the climate
+	- Would be suspicious of outsiders - civilisation is hard won
+	- Maybe there's a quarantine, because of the insidious ways Ondra brings destruction in
+	- Might spring up around a magical resource from the planet
+	- There are periods where they need to abandon an outer ring, and then fight to reclaim it
+	- Mole people living in the walls
+- There was one big empire: what was it, and how did it fall?
+	- Rise
+		- Could be ocean or sea based - or a very large lake
+			- The lake might have been well positioned as a center of trade
+			- Might have encompassed the whole outside of the lake by the end
+				- Resources within the lake dried out
+	- Fall`
+		- Cataclysm - tectonics seem sound because of [[The Crush]] 
+- Gods
+	- They are brought into being by the settlers
+	- But you could also think of them as sub-systems that ultimately fit together in service of the greater whole
+	- Different tendencies struggling over the best way to achieve the same goal
+- Trinkets and protective charms
+	- Because it's so dangerous, everyone wants luck
+
 ### obsidian config
 
 - way to create a worldbuilding portal
