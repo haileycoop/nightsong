@@ -1,14 +1,75 @@
 > **Spoilers for Players - Turn Back!**
 > This is the Worldbuilding section, full of secrets
 
-#### Player facing
+### To do
+
+- Find some short modules for adventures in hexes 
+- Build some random encounter tables, and the encounters to support them
+- Write up some rumours for the town, plus descriptions for the town generally
+- Create the intro encounter for the first session
+- Process scratch notes ideas into articles
+- Publish some faction information to players
+
+
+
+### Player facing
 
 - [Campaign Creator Form](https://docs.google.com/document/d/1jIzo3VKLag53-LJJ47g69XyCst3mcdpFOOVPRhkb9nA/edit)
+- [[content/index|Player homepage]]
 
 
-#### Campaign style
+### First 3 hexes
 
-- sandbox into emergent major narrative
+##### Monsters attacking the mining camp
+*Regular attacks on the mining camp are draining resources.* 
+
+**The Hook**
+The PCs are offered money to find and deal with the root cause of the problem.
+
+**The Challenge**
+- PCs may need to wait for an attack and then track the source
+- They may need to venture into an abandoned mineshaft to find the lair
+- They then need to do battle in the lair
+
+**The Reward**
+- Payment from Charley the mining union boss.
+- Random treasure or monster parts in the abandoned mineshaft.
+- They could stumble onto the ancient artefact of the door which had been sealed off in the past by Charley once everyone forgot about it
+
+##### The Elixir Witch
+*A witch that makes elixirs out of monster parts and will trade for monster parts. Has some huge intelligent monster pet (or maybe the monster is the witch and the humanoid is the protector)*
+
+**The Hook**
+There is a witch out in the maw that makes powerful elixirs and knows things
+
+**The Challenge**
+- Finding the hex it's in is difficult
+- Within its hex, it's well hidden and protected and there are traps
+- The players will have to battle the guardian, who is actually the witch, who will stop short of killing them
+
+**The reward**
+- unlocks a shop
+- information
+- a relatively safe place to camp
+
+##### The Necromancer
+*A necromancer with a tower. Since Ondra makes echos out of unsanctified dead, they have profaned their whole hex and filled it with death traps. PCs can’t be resurrected and won’t go to their god if they die there.*
+
+**The Hook**
+A surprising number of echos keep reappearing, well-armed, to harass adventurers. Seems to be centred on this rundown tower but anyone who investigates ends up an echo.
+
+**The Challenge**
+- Getting past the traps and into the tower
+- Battling through the tower`
+- Necromancer boss fight
+
+**The reward**
+- information 
+- fame
+- the necromancer's hoard
+
+
+
 
 #### Notes on how to GM
 
@@ -33,11 +94,18 @@ Encounters
 
 #### Start - the entrance to The Maw
 
-- There's a town that guards the passage into the maw
-- It's full of adventurers and supplies but it's also run by some governor
-- Intrigue could happen there
-- But broadly the players are going into the maw to seek treasure or some other quest they have from their backstory
+- [[Durinson's Rest]] guards the passage into [[The Maw]]
+- The players are going into the [[The Maw]] to seek treasure or pursue some other quest they have from their backstory
 - There may be a fee just to enter the maw
+
+
+#### General notes & ideas on life today
+
+- Species with darkvision that live together with other species should be more nocturnal and take the "night shift" of society
+- This works out as these civilisations need to be on constant guard against threat
+- Species with darkvision should have some issues in full daylight
+- I want an economy around monster parts as valuable ingredients for elixirs and magical reagents, so that hunting monsters is desirable
+	- Check out Monsters of Drakkenheim for rules on monster parts
 
 #### Save this for later - Eldergrove
 - the players all need to have some reason to be in Eldergrove
@@ -56,10 +124,3 @@ Encounters
 
 - deeper in the ruins, there are secrets that would reveal much of the origin story of the world, and insights that would allow the emerging scientists of the current age to make big leaps. but that should be out of reach at this stage
 
-#### General notes & ideas on life today
-
-- Species with darkvision that live together with other species should be more nocturnal and take the "night shift" of society
-- This works out as these civilisations need to be on constant guard against threat
-- Species with darkvision should have some issues in full daylight
-- I want an economy around monster parts as valuable ingredients for elixirs and magical reagents, so that hunting monsters is desirable
-	- Check out Monsters of Drakkenheim for rules on monster parts

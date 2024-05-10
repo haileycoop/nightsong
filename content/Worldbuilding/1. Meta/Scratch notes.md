@@ -69,6 +69,14 @@ creatures:
 - Trinkets and protective charms
 	- Because it's so dangerous, everyone wants luck
 
+THOUGHTS AFTER IN DISCORD
+I was thinking about the ring cities on the tram and im like “what if it’s a spiral? They just keep growing the spiral with a big wall at the mouth. It’s all founded on like a Fibonacci golden spiral myth. Status accrues to those who are strong enough to live on the spiral boundary. Very spartan. But they preserve a soft cultural core in the origin of the spiral. There is some sort of monument or shrine in the Center that initiates the spiral. They are thirsty for Adamantine and Dawnsilver to outfit their fighters and and they dream of building their walls from metals. So they are the one place people can be soft and safe (ish) and also they drive the economy. Maybe they output manufactured goods to pay for it all
+I want to call them something like: The Adamant Ratio
+
+Maybe water is scarce. They founded it at a spring or something but it’s not keeping up. Residents are super careful with water
+
+
+
 ### obsidian config
 
 - way to create a worldbuilding portal

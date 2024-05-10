@@ -17,13 +17,70 @@ It is Nightsong, the gentle hour. At Nightsong we wake from sleep to share the s
 
 How will you make a future for yourself, and your people, in the wilds of Ondra? What nightsong will you sing?
 
-## New campaign: The Maw
+## Current campaign: The Maw
 
+**If you're stumbling on this page, all spots for the new campaign are filled.**
+
+---
 *A group of seasoned adventurers seeks their fortune in the Maw, a dangerous wild land surrounded by jagged mountains, rife with ancient ruins.*
 
 ![[Maw-map.png]]
 
-### Context
+
+### Setting details
+
+##### Starting point: Durinson's rest
+
+You've arrived at Durinson's Rest, the town that guards the only known pass into the Maw. Why you're here is up to you. Most people will assume you are treasure hunters. The town is filled with rumours about where to find treasure, and people keen to get your treasure off you once you've found it. So gear up, pick a direction, and see what's out there. 
+
+##### Geography
+
+Because Ondra is so vicious, world-spanning empires are not possible. Your characters may be aware that other continents exist, but you've almost certainly never met someone who comes from one. Even if those lands were once settled, chances are, those people are dead now. 
+
+The map above covers the area that most folks know, plus more land to the south. Each hex is roughly two day's travel on foot (12 to 24 miles). From top to bottom:
+
+**The Tundra**
+Frozen lands with scarce resources. Some peoples do live there, but settlements are few and far between.
+
+**The Mountains**
+The northern portion of this dense range tends to be shorter and more grown over, but still magnificent. The southern portion is tall, jagged, and fierce.
+
+**The Maw**
+Situated between these two mountainous sets of teeth is The Maw, a dangerous and inaccessible temperate jungle and swampland.
+
+**The Upper Coast**
+A thin strip of land east of the mountains is more hospital than anything else this far north. Settlements exist, but being far from any more established cities, they are usually remote fishing villages or pirate havens.
+
+**The Jagged Wastes**
+A huge swath of land south of the mountains is a broken badland. Like the tundra to the north, it only supports the most hardy nomadic peoples.
+
+**The Green Lands**
+Most people live in this area. Monsters are still plentiful, but so are rivers, lakes, and growing things. The area is dotted with city-states, minor kingdoms, and menagerie of creative ways to respond to the challenge of life on Ondra.
+
+##### Factions
+
+Players don't need to be from one of these factions, but are welcome to be - or have some history with them. If your character is not from one of these factions, I'll work with you to develop more about where they are from.
+
+**The Adamant Ratio**
+While some cities have creative ways of making their piece with Ondra, others believe in the straightforward response of walls and discipline. The Adamant Ratio are the greatest of these. Their city is founded on the concept of a spiral. Starting from a sacred origin point, they have slowly built out their defenses over the years in the shape of a spiral wall.
+
+When the outermost walls fall to Ondra's onslaught, they may retreat inward, but only temporarily. The spiral must grow, and so they will build again. Increasingly, they seek out strong, incorruptible metals like adamantine and mithril to augment their walls, and the armour of their warriors.
+
+To support this demand for precious metal, they export disciplined warriors, manufactured goods, and reliable transport services. 
+
+Citizens of the Adamant Ratio are very disciplined and courageous. While it is safe in the center, those who live there are accorded the lowest status. They are the weakest, in need of protection. Living on the outer wall, or venturing into the world to help feed the spiral, is the highest calling.
+
+**The Travelling College**
+The members of the travelling college live permanently on the road, in a great caravan pulled by massive, shuffling diprotodon beasts. As they travel in their great loop visiting the many cultures of the green lands, they gather knowledge. Once a year, they compile all of their learning, old and new, into The Almanac. It is a compendium of useful insights and odd facts. Every town has at least one. As the Travelling College gathers the insights for next year's edition, the sell this year's edition. 
+
+The college uses their deep well of knowledge to keep themselves safe on the road. Those who have attempted to assault the caravan have been surprised by the power of its defenses, and the speedy response of its allies.
+
+When new discoveries open up outside their great loop, the college will send adventurous emissaries to learn and bear witness. New settlements may eventually earn a place on the loop.
+
+**The Airship Armada**
+A small but determined cluster of airship crews who live in a floating city. Their ships are unreliable and prone to catastrophic accidents. They aren't able to safely high or far. Getting over a mountain range is out of the question. Their lives are short but free. 
+
+### Campaign context
 
 Nightsong is an original world by me, Hailey. It's based on some ideas I've been bouncing around for a while, but I decided to work on it actively to run a short Pathfinder 2 campaign for my friend Abigail. As we play the campaign, I'll be taking ideas from the players, and the story we tell together, to flesh out the world.
 
@@ -31,11 +88,7 @@ At the same time, I will be working with another set of friends who are interest
 
 If you want to be a player, and you don't like being spoiled, then don't read the worldbuilding content (if you happen to find it).
 
-### Campaign brief
-
-You've arrived at Durinson's Rest, the town that guards the only known pass into the Maw. Why you're here is up to you. Most people will assume you are treasure hunters. The town is filled with rumours about where to find treasure, and people keen to get your treasure off you once you've found it. So gear up, pick a direction, and see what's out there. 
-
-### Style: old school sandbox into grand narrative
+#### Style: old school sandbox into grand narrative
 
 **Sandbox:** I really like character development, big narrative arcs, and GM-created mysteries. At the same time, I want to reduce my prep time and challenge myself to embrace emergent stories. We'll start off doing old school sandbox hexcrawls. As stories emerge, I'll lean more into developing grand narratves.
 
@@ -50,7 +103,7 @@ You've arrived at Durinson's Rest, the town that guards the only known pass into
 **Simulation:** We like keeping track of stuff and managing some of the minutiae. You will need to concern yourself with rations and encumbrance. We may use spreadsheets. But it won't be super strict and we will hand-wave sometimes to keep the story flowing.
 
 
-### Real world details: a short campaign
+#### Real world details: a short campaign
 
 **Level:** Characters will start at level 5. We'll decided together whether we prefer XP or milestone advancement.
 
@@ -64,7 +117,7 @@ You've arrived at Durinson's Rest, the town that guards the only known pass into
 
 **Free archetypes:** I'm also open to using the [free archetype alternate rules](https://www.google.com/search?q=pathfinder+2e+free+archetype+rules&sca_esv=4752484a868d0ce9&sxsrf=ACQVn0-cUry0vj6MbSZ7ynoXwwJ9h7yQDw%3A1712392503774&ei=NwkRZq7nLtfWseMP9_2i0Aw&ved=0ahUKEwju3pyXl62FAxVXa2wGHfe-CMoQ4dUDCBA&uact=5&oq=pathfinder+2e+free+archetype+rules&gs_lp=Egxnd3Mtd2l6LXNlcnAiInBhdGhmaW5kZXIgMmUgZnJlZSBhcmNoZXR5cGUgcnVsZXMyBRAAGIAEMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgMyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI3xFQ2gZY5w9wAXgBkAEAmAGzAaAByAaqAQMwLjW4AQPIAQD4AQGYAgWgAq0FwgIKEAAYRxjWBBiwA8ICBxAjGLACGCfCAgYQABgHGB6YAwCIBgGQBgiSBwMxLjSgB-Mj&sclient=gws-wiz-serp), which allows players to get a free archetype representing some shared history (e.g. we're all barbarians, or all pirates).
 
-### Players: experienced and queer
+#### Players: experienced and queer
 
 **Queer:** We want a safe and relaxed vibe, so we'll be looking for players who are queer (like us) or at least have queer friends.
 
@@ -75,9 +128,3 @@ You've arrived at Durinson's Rest, the town that guards the only known pass into
 **Proactive:** Your characters need to be motivated and have reasons to be in the area where the campaign begins. A sandbox style game has a lot more give and take between players and GM.
 
 **Responsible:** Everyone's fun is everyone's responsibility. Please be on time, present, and communicative. We want to get the most out of this experience and the time we put into it.
-
-### Interested?
-
-Hit me up in whatever platform you found this on. I'm mainly trying to recruit players through trusted friend networks, so chances are, I already know you. But we're open to meeting someone new, if they feel excited about this campaign.
-
-As we find our other 3 players, we'll bring you into the discord, and start sharing ideas and working out details.
