@@ -3,13 +3,35 @@
 
 ### To do
 
+- Name and design the AR location and the session events - see [[1. A new destiny]]
+	- Write up some rumours for the camp, plus descriptions for the town generally
+	- Intro encounter for the first session - finish prepping map, context, monster choices
+- Players 
+	- Review character sheets and read up abilities
+		- Dr Abigail - have sheet
+		- Abs Harden
+		- Kirk
+		- Stevie - have backstory
+- Make up quick references that I will want
+	- Setting a DC
+	- Exploration options
+	- Hexploration rules
+	- PC key stats
+	- Typical daily preparation for PCs - want them to be intentional about this
+	- Stealth levels
 - Find some short modules for adventures in hexes 
-- Build some random encounter tables, and the encounters to support them
-- Write up some rumours for the town, plus descriptions for the town generally
-- Create the intro encounter for the first session
+- Refine my random encounter tables and create some ready encounters or at least link to monsters
 - Process scratch notes ideas into articles
-- Publish some faction information to players
+- Set up a calendar
+- [Worlds without number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition ) for faction generation
+- [Universal NPC Emulator](https://www.drivethrurpg.com/en/product/134163/une-the-universal-npc-emulator-rev) for NPCs in those factions
 
+### Things my players like
+*Check the Session 0 notes for more*
+
+| Stevie                                                                                            | Abs Harden                                         | Dr. Abigail | Kirk |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------- | ---- |
+| As a martial character, using their body and gear to do interesting things (in and out of combat) | Really deep scene descriptions (like Emily Axford) |             |      |
 
 
 ### Player facing
@@ -77,11 +99,25 @@ Just 3 hexes https://chgowiz-games.blogspot.com/2017/11/just-three-hexes-campaig
 
 Re-watch and take notes: [How to create a Sandbox Campaign](https://www.youtube.com/watch?v=Mj94BYvm3kU)
 
+
 Sandbox
-- have themes to explore
+- have themes to explore, adventure hooks
+- rumours are the lifeblood of the sandbox (lesser so questgivers)
 - have factions and conflicts ready to be set into motion by the players
+- don't create a big bad that they must stop
 - players must be proactive
 - need good encounter tables
+
+Sandbox maintenance
+- Do your planning after the session not before, so that you are fleshing out what the characters interacted with
+- Have an article for each location, and note relevant NPCs there and what the players learned about them
+
+Bandit's keep random table process from[ this video around 11 minutes](https://www.youtube.com/watch?v=-0fF88XsILw)
+- Always roll 3d8 at the start of the day to determine what will happen morning, noon, night 
+- The main table can lead to sub tables
+- Remember to update tables after they encounter something on it
+
+ ![[Screen Shot 2024-07-28 at 12.38.39 pm.png]]
 
 Encounters
 - Encourage players to ask questions
@@ -92,7 +128,7 @@ Encounters
 	- Threat - some threat that gets closer, or progressively damages characters
 - Consequences for bad rolls
 
-#### Start - the entrance to The Maw
+#### First destination - the entrance to The Maw
 
 - [[Durinson's Rest]] guards the passage into [[The Maw]]
 - The players are going into the [[The Maw]] to seek treasure or pursue some other quest they have from their backstory

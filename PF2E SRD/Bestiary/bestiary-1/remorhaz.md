@@ -8,7 +8,6 @@ tags:
 statblock: inline
 level: 7
 ---
-
 ```statblock
 columns: 2
 forcecolumns: true
@@ -63,7 +62,7 @@ attacks:
 
 sourcebook: "_Bestiary_, page 280."
 ```
-
+Write up some rumours for the camp, plus descriptions for the town generally
 ```encounter-table
 name: Remorhaz
 creatures:

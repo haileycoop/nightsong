@@ -80,6 +80,9 @@ When new discoveries open up outside their great loop, the college will send adv
 **The Airship Armada**
 A small but determined cluster of airship crews who live in a floating city. Their ships are unreliable and prone to catastrophic accidents. They aren't able to safely high or far. Getting over a mountain range is out of the question. Their lives are short but free. 
 
+**The Concord of Sovereign Houses of Ondra**
+Further south of the Maw, the lands offer some meagre hospitality. The terrain is flatter and less rocky, with fewer forests and more plains. There are rivers and lakes, and a few harbours. A number of great houses of established themselves in defensible niches, using motte and bailey, and a constrained blend of agriculture with hunting and gathering, to persist over generations. A single great lake between them provides a nexus through which an uneasy web of trade and alliance has formed.
+
 ### Campaign context
 
 Nightsong is an original world by me, Hailey. It's based on some ideas I've been bouncing around for a while, but I decided to work on it actively to run a short Pathfinder 2 campaign for my friend Abigail. As we play the campaign, I'll be taking ideas from the players, and the story we tell together, to flesh out the world.
