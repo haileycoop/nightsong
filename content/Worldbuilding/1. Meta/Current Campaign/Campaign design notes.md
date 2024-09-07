@@ -3,36 +3,14 @@
 
 ### To do
 
-- Name and design the AR location and the session events - see [[1. A new destiny]]
-	- Write up some rumours for the camp, plus descriptions for the town generally
-	- Intro encounter for the first session - finish prepping map, context, monster choices
-- Players 
-	- Review character sheets and read up abilities
-		- Dr Abigail - have sheet
-		- Abs Harden
-		- Kirk
-		- Stevie - have backstory
-- Make up quick references that I will want
-	- Setting a DC
-	- Exploration options
-	- Hexploration rules
-	- PC key stats
-	- Typical daily preparation for PCs - want them to be intentional about this
-	- Stealth levels
-- Find some short modules for adventures in hexes 
-- Refine my random encounter tables and create some ready encounters or at least link to monsters
-- Process scratch notes ideas into articles
-- Set up a calendar
-- [Worlds without number](https://www.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition ) for faction generation
-- [Universal NPC Emulator](https://www.drivethrurpg.com/en/product/134163/une-the-universal-npc-emulator-rev) for NPCs in those factions
+Moved to [[1. A new destiny]] to keep it in one place
 
 ### Things my players like
 *Check the Session 0 notes for more*
 
-| Stevie                                                                                            | Abs Harden                                         | Dr. Abigail | Kirk |
-| ------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------- | ---- |
-| As a martial character, using their body and gear to do interesting things (in and out of combat) | Really deep scene descriptions (like Emily Axford) |             |      |
-
+| Stevie                                                                                            | Abs Harden                                         | Dr. Abigail                                                                 | Kirk                    |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------- |
+| As a martial character, using their body and gear to do interesting things (in and out of combat) | Really deep scene descriptions (like Emily Axford) | Wants a Flumph wizard and a Flail Snail (not necessarily at the same time). | [ nothing offered yet ] |
 
 ### Player facing
 
@@ -89,8 +67,6 @@ A surprising number of echos keep reappearing, well-armed, to harass adventurers
 - information 
 - fame
 - the necromancer's hoard
-
-
 
 
 #### Notes on how to GM
