@@ -17,28 +17,25 @@ If this is your first visit to this portal, please read the [[Context]] page fir
 
 ### Factions
 
-| ---------------------------------------- | ------------------------------------------------------------------------------------ |
-| [[Adamant Ratio]] | A disciplined society that lives inside spiral walls and provides logistics on Ondra |
-| [[Concord of Sovereign Houses of Ondra]] | An uneasy alliance of kingdoms to the south |
-| [[Escape]] | A cult obsessed with escaping the "prison" of Ondra |
-| [[Travelling College]] | A permanently mobile caravan of knowledge gatherers and publishers |
+- [[Adamant Ratio]]: A disciplined society that lives inside spiral walls and provides logistics on Ondra.
+- [[Concord of Sovereign Houses of Ondra]]: An uneasy alliance of kingdoms to the south.
+- [[Escape]]: A cult obsessed with escaping the "prison" of Ondra.
+- [[Travelling College]]: A permanently mobile caravan of knowledge gatherers and publishers.
 
 ### Locations
 
-| ------------------------ | --------------------------------------------------------- |
-| [[C.L. Patient Ordinal]] | An Adamant Ratio encampment on the way to Durinson's Rest |
-| [[Durinson's Rest]] | A corrupt town guarding the pass into [[The Maw]] |
-| [[Eldergrove]] | - |
-| [[Ondra]] | - |
-| [[The Bastion]] | - |
-| [[The Maw]] | - |
-| [[The Vellar System]] | - |
-| [[Var]] | The dark world that hangs in the night sky of Ondra |
+- [[C.L. Patient Ordinal]]: An Adamant Ratio encampment on the way to Durinson's Rest.
+- [[Durinson's Rest]]: A corrupt town guarding the pass into [[The Maw]].
+- [[Eldergrove]]: -
+- [[Ondra]]: -
+- [[The Bastion]]: -
+- [[The Maw]]: -
+- [[The Vellar System]]: -
+- [[Var]]: The dark world that hangs in the night sky of Ondra.
 
 ### Ancestries
 
-| ------------------------------- | ------------------------------------------------------------------------------- |
-| [[Elves]] | A carefree people who are very serious about culture |
-| [[Humans]] | - |
-| [[Milky Way Settlers on Ondra]] | A summary of all Pathfinder core ancestries until I build out articles for them |
-| [[Skywhales]] | - |
+- [[Elves]]: A carefree people who are very serious about culture.
+- [[Humans]]: -
+- [[Milky Way Settlers on Ondra]]: A summary of all Pathfinder core ancestries until I build out articles for them.
+- [[Skywhales]]: -
