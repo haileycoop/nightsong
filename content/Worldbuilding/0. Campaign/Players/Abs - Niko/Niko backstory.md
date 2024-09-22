@@ -1,0 +1,29 @@
+> **Spoilers for Players - Turn Back!**
+> This is the Worldbuilding section, full of secrets
+
+# Backstory
+
+The first shipwreck happened at the age of 8 and memories prior to this time were vague, as if lost in shadow. She knew she’d been on a pirate ship; she knew her father had been onboard; she remembered the deeply enticing call of the sea, and beyond that… nothing. 
+Niko woke on the shore amid the wreck of the only home she’d ever known. She spent the next 5 years surviving on the coast, scavenging from shipwrecks and waiting by the shore for her family to find her. They never did. So Niko spent the majority of this time as a tiger, except when she needed human hands to rifle through crates or debris. Being on the edge of the water soothed her soul, but she was always determined to get back on the water. She knew it was only a matter of time. 
+
+By 13 she had started ambushing travellers on the road for clothes and food. She hid in advantageous bushes as a growing tiger, with sharp claws and fangs and trusted that her prey would look no deeper than the initial threat. This was quite successful until she ambushed the wrong carriage. She pounced in her tiger form, but the man knocked her out cold, and when she awoke she was in a basement on a bed, with a tray of food next to her. A man came in some time later.
+
+This was her first impression of [[Christof]]. Steady, sure and completely in control.  He told her he was a merchant and that he needed someone to protect his house while he was away getting supplies. He would forgive her attack in exchange for her protection of his home. She would have a safe home, food and would be trained to defend herself in human form as well as in her tiger form. If not, she was free to leave. Niko was used to relying on herself, and trusting no one, but she also longed for companionship. 
+
+Christof became her guardian, sometimes present but often absent. When he was in town, Niko was trained to fight and enjoyed it and excelled at both beguiling her attacker, but also at sword craft. She was able to live by the sea, spending long nights looking out to the ocean and wishing she could be back out there on a ship. Often Christof asked her of her parents and her life before he found her. She always gave the same answer – she had no memories. She didn’t want him to know that her parents were likely pirates who deserved their deaths.
+
+After living there for about 6 years, she had made good in her role protecting his home. She had fought off attackers and protected his home and herself. And finally, one night upon returning home and finding her with feet wet where the land met the sea at the edge of his property, her mentor finaly told her he was Red Chris the pirate, and asked her to join his crew. First Niko was angry, the rage of her tiger fought with the love she’d felt for this man for many years. She was hurt but also delighted that she might finally return to the sea and began a life of piracy which she felt called to. She had a knack for enticing men whose bravado expected their own power and missed her own. At sea she found her power and delighted in it, but she looked to Christof and saw his power and delighted in it as much as her own.
+
+Under his instruction and daily life aboard his ship, Niko learned the power of a pirate, and more than that, her own power. She had power with Christof her lover, her captain and also her power with the rest of the crew. After two years she ran the ship in all but name. After 10 years of pillaging and being the first and loveliest mate, and being on the ocean Niko was happy. She was in love with Christof, and the crew and the ship. These were the happiest times of her life. 
+
+During her 10th year as first mate, Christof started getting secretive. It began with the  letters. The strangest occurrence was that he wouldn’t share the content of those missives with Niko. Niko was 32 and knew her worth and saw the change in her beloved. One night she questioned him. He responded, “Niko, since the moment I saw you, fierce and lovely, I have loved you. Mother ocean has called to you and she calls still. I need you to prove yourself. We will meet the [[Deepwardens|Deepwardens]]. They will have an item. Kill the one who bares it and take it from them and we shall escape. Trust me as you have always trusted me and we will serve her.” 
+
+Niko heard his voice. But it was not his own, it echoed with mother ocean as though she was finally speaking to Niko over years of obfuscation. The next day the crew approached the Deepwardens and those water beings boarded Chris the Red’s ship. Niko identified the carrier, flirted with him and distracted him, until she saw Christof’s signal, when she killed the target and took the item; pushed him overboard. The crew killed the rest and sailed away.
+
+Niko stood next to Christof and asked, “the Deepwardens are the fastest on the ocean. Why do you think we will escape?” her love said nothing, and looked ahead. After years as his lover, Niko knew better than to continue her questions with him in this mood.
+Either the sea allowed Christof and their crew to leave or the Deepwardens did, but for the next three nights Niko dreamed of her first shipwreck and each day she awoke and looked out to sea and heard the whispers.  On the third night she awoke and her dream was real.
+
+She awoke on the shore holding the item and awakened to magic. Niko ran to the ocean and screamed her grief. “Not again!” The item resembled a black whole surrounded by teeth and drew her in. She pulled herself away from the depth and looked toward the the shore. In her grief she waded towrd the depths of the ocean. The shore pushed Niko back. The ocean wanted her to journey inward. Niko would not fail her.
+
+Days later and months after that, Niko learned of the maw, and the image that was now burned into her memory. She must venture to the Maw, where mother ocean would give her answers.
+

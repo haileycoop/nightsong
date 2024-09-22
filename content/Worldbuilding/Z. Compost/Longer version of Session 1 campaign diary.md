@@ -1,0 +1,72 @@
+> **Spoilers for Players - Turn Back!** This is the Worldbuilding section, full of secrets
+> MENU: | [[content/Worldbuilding/index|Home]] | 
+
+Here are the bullet dots I fed into the AI:
+
+- there are four players. I will use their character names only for privacy
+- we are using the free archteype rules so their characters are mostly all multiclassed
+	- Rufus (Minotaur Fighter-Champion): a loyal soldier of the [[Adamant Ratio]], 5th iteration (a middle rank)
+	- Niko (Human Weretiger Swashbuckler-Sorceror): a refugee who struggled into camp a couple weeks ago, but has earned the trust of the camp as assistant to the camp chef
+	- Ishmael (Minotaur Witch): an annual visitor to the camp and member of the esteemed [[Travelling College| Travelling College]], whose giant wombats pulled the college's caravan away just a couple days ago
+	- Beitris (Human Geniekin Psionicist): a young nomad, and ward of Ishmael's, who joined the travelling college's caravan a few weeks back, and now stays on to continue journeying with Ishmael
+- the story begins at [[C.L. Patient Ordinal]], an Adamant Ratio mobile camp that is just about to be sanctified as a new permanent location. Tomorrow, a sacred "origin stone" made of precious metals will be installed.
+- I used a prompt tool, establshing two pairs: Niko and Rufus, and Ishmael and Beitris
+	- I asked them to come up with 3 things they each would have revealed to each other, minor or major
+	- The players mainly role played this in character conversations which was fun to watch
+- The players role-played beautifully, developing character relationships and finding their feet as characters.
+	- Rufus showed their rule-following nature and was troubled by the other characters being loose
+	- Niko snuck them out some beers at lunch
+	- Ishmael handed out Almanac's and plied people for their stories
+	- Beitris excitedly talked to anyone and was keen to see the origin because of her affinity with metal
+- Their backstories came out
+	- Beitris also talked openly about her visions of some kind of whale that she gets at Nightsong, which led her to join up with Ishmael and the Travelling College
+	- She doesn't even know what a whale is but Ishmael told her, but her whales have too many fins and swim against a background of a starry night sky
+	- These are of course the [[Skywhales]] and they are directing her towards the maw, including showing her the Diprotodons (giant wombats) of the Travelling College the day before she saw them for the first time in the real world
+	- Beitris also carries a relic - a set of metal bracers that can morph their shape and hold stones, e.g. they hold a small stone with the light spell on it. This is using Pathfinder 2's [relic rules](https://2e.aonprd.com/Relics.aspx)
+	- Ishmael has been asked by the college to check out [[Durinson's Rest]] as it is becoming more important and big things are happening, so they've left him behind here and he will go find out more`
+	- Niko stumbled in here and has been essentially a refugee after she was in a shipwreck and lost everything not long ago. I don't think she revealed this to the other characters though. But she's been earning her stay in camp for a few weeks
+	- Rufus is a mid-rank soldier in the Adamant Ratio. He has sometimes been passed over for more outward facing duties not for lack of courage but because he is naturally talented in enclosed spaces and also is a little too inflexible and not creative enough
+	- His old friend [[Bettina Ironsworn]] has progressed faster than him and now she looks out for him. She got him a position in this camp, which is a big step for him.
+		- Dux Custos ("DC", captain of the guard), 4th Iteration
+- I introduce the camp scene and give them time to explore
+	- Beitris immediately seeks out the origin and charms her way into a private audience with camp leader Jucundus
+		- Jucundus, 2nd iteration, Origo Custos ("OC", keeper of the origin, essentially the leader but more like a head priest) - A warmhearted priest of the origin. A little orc, a little dwarf, a litle elf. She is tasked with the sanctifying of the new origin point.
+	- Rufus clues on to a broken ballista that I placed on the camp map and goes on a mission to fix it. This connects them to Valeria Audux, Armatura, 4th iteration, in charge of defenses, who has struggled to fix this. They also mention these have been breaking a lot or going missing. 
+		- This is because the camp has been infiltrated by members of the [[Escape]] but they don't work this out yet.
+		- Niko's player cottoned onto this being a clue but they weren't involved and couldn't do much
+		- Jucundus notices Rufus's struggles to fix the piece and with some encouragement from Beitris, he is able to fix it
+	- There were some other scenes
+		- Niko sneaking out lunch ales behind the back of camp cook Olgar "Spiceblade" Varock. Rufus reports her to Bettina who basically tells him to lighten up but says she'll "look into it". She doesn't
+		- Ishmael talks to people and gives out lots of Almanacs
+		- Beitris explores a lot and talks to everyone, including the smith
+		- The smith drops a clue about a minister from the [[Concord of Sovereign Houses of Ondra]] (COSHO) about a month back and how he liked their robes and such, and thought living as a serf in a sovereign house might be more his speed
+		- This is meant to be a clue as I am planning on having a COSHO operative pursuing his own ends up in this area and I want the players to be thinking about COSHO as a faction in play
+		- I'm not sure how much this landed as the players were absorbing a lot and mostly focused on learning how to inhabit their characters so I will make sure to hit it again
+	- After these scenes I fast forwarded to the time of nightsong, essentially midnight, when the planet [[Var]] is at its apogee and all Ondrans rise for peaceful storytelling
+		- A couple of soldiers do a kind of silent play telling the story of a hero of the Ratio, but Ishmael knows it's actually a much older story
+		- A shaggy stablehand named Fraster is leading some drumming
+	- This is when I hit them with the inciting incident that I want to use to introduce some of the factions and also give them a first combat experience
+	- The camp comes under attack by the [[Escape]], a faction not known to anyone in camp.
+	- The camp is caught off guard because organised military attacks are not expected out here in the wilds. They mainly need to defend against monsters and natural hazards
+	- Fraster is actually an escape member and the drum calls  a [[razorworm]], a giant burrowing gravel-spewing worm monster, up from below. Fraster can direct the actions of the razorworm.
+	- The camp is also under attack from the outside including a second razorworm attack directly on the chamber of the origin
+	- Bettina tells the PCs to deal with the razorworm that Fraster summoned, which is my way of making an encounter without having to simulate a whole battle
+	- I introduced a "clock" from PbTA and told them that these mysterious raiders would get away with more things they want, and more bad things would happen the more the clock progressed.
+		- The clock triggered whenever the razorworm broke through a wall and on every even numbered round
+	- The first move of the razorworm was to use its "gravel spew" breath weapon ability to shatter an exterior wall, providing an entry for the attacking cultists. Clock goes to 1
+		- It was able to do this in one move because I gave it double damage on objects, which feels aligned to the theme of Ondra being pretty hostile to civilisation
+	- The PCs fought carefully and creatively. Rufus tanked. The others stayed at a distance. Ishmael used the repaired ballista to do extra damage.
+	- They quickly worked out that Fraster was controlling the work with the drum and they took down Fraster, making the worm more chaotic
+	- In round 3, new cultists came through the wall, the first of many potential waves
+	- In round 4, Rufus was unconscious in the mouth of the worm, but Ishmael hit the worm with a ballista bolt.
+	- I had decided the worm would flee and not fight, so when the bolt made it nearly dead, it dropped Rufus and fled
+	- I decided once the worm was dead, that this freed up the focus of the rest of the camp and it meant the battle was over. (It was also getting late in the real world)
+	- The PCs captured one of the 2 cultists and we ended the night there.
+	- The clock got to 3 out of 4. So the raiders got away with a lot, and Jucundus was injured, but they did not manage to escape with the origin.
+	- My plan for next time
+		- They will investigate and likely find a tattoo that Escape members have, and Bettina will recognise it as something that has been seen in Durinson's Rest
+		- She will send Rufus to investigate and tell Rufus to recruit his friends
+		- This is in line with something I communicated to the players
+		- I am striving to use emergent sandbox old school gameplay (and I would like to write more about my journey and process here)
+		- But initially I am asking them to stay on my rails until we get to Durinson's rest
+		- I am treating this first phase as kind of a tutorial for all of us as we learn the system

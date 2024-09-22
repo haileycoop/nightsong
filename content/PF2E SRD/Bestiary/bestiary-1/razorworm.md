@@ -31,6 +31,8 @@ skills:
 abilityMods: [7, 2, 5, -3, 1, -2]
 
 abilities_mid:
+  - name: "Razing Attacks"
+    desc: "All of the Razorworm's attacks have the razing trait: whenever you deal damage to an object (including shields and animated objects), structure, or vehicle with a razing weapon, the object takes an amount of additional damage equal to double the number of weapon damage dice."
   - name: "Razor Skin"
     desc: " ([[aura]], [[evocation]], [[slashing]], [[primal]]);  5 feet. A creature that starts its turn in the aura takes 1d6 (1d6) slashing damage. Any creature that hits a remorhaz with a melee [[Strike]] within the aura must succeed on a DC 19 Reflex save or take 2d6 (2d6) slashing damage."
 abilities_bot:
@@ -58,10 +60,4 @@ attacks:
     desc: "⬻ tail +18 ([[slashing]], [[reach|reach 15 feet]]); __Damage__ 1d10+3 (1d10+3) bludgeoning plus 2d6 (2d6) slashing"
 
 sourcebook: Based on Remorhaz "_Bestiary_, page 280."
-```
-Write up some rumours for the camp, plus descriptions for the town generally
-```encounter-table
-name: Remorhaz
-creatures:
-  - 1: Remorhaz
 ```

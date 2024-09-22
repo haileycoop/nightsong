@@ -15,6 +15,6 @@ Granted by [[Choker-Arm Mutagen (Greater)]]
 **Implemented Effects**
 
 *   +10 foot reach
-*   +3 item bonus to Acrobatics checks to [[Escape]], [[Squeeze]], and [[Tumble Through]]
+*   +3 item bonus to Acrobatics checks to [[content/PF2E SRD/Actions/Escape]], [[Squeeze]], and [[Tumble Through]]
 *   \-1 penalty to Athletics checks, Stealth checks, Thievery checks, and attack rolls
 *   \-1 penalty per damage die to all weapon and unarmed attack damage.

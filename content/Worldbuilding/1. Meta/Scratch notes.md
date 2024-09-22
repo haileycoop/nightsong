@@ -7,6 +7,55 @@ creatures:
  - Goblin Commando
 ```
 
+### First 3 hexes around Durinson's Rest
+
+##### Monsters attacking the mining camp
+*Regular attacks on the mining camp are draining resources.* 
+
+**The Hook**
+The PCs are offered money to find and deal with the root cause of the problem.
+
+**The Challenge**
+- PCs may need to wait for an attack and then track the source
+- They may need to venture into an abandoned mineshaft to find the lair
+- They then need to do battle in the lair
+
+**The Reward**
+- Payment from Charley the mining union boss.
+- Random treasure or monster parts in the abandoned mineshaft.
+- They could stumble onto the ancient artefact of the door which had been sealed off in the past by Charley once everyone forgot about it
+
+##### The Elixir Witch
+*A witch that makes elixirs out of monster parts and will trade for monster parts. Has some huge intelligent monster pet (or maybe the monster is the witch and the humanoid is the protector)*
+
+**The Hook**
+There is a witch out in the maw that makes powerful elixirs and knows things
+
+**The Challenge**
+- Finding the hex it's in is difficult
+- Within its hex, it's well hidden and protected and there are traps
+- The players will have to battle the guardian, who is actually the witch, who will stop short of killing them
+
+**The reward**
+- unlocks a shop
+- information
+- a relatively safe place to camp
+
+##### The Necromancer
+*A necromancer with a tower. Since Ondra makes echos out of unsanctified dead, they have profaned their whole hex and filled it with death traps. PCs can’t be resurrected and won’t go to their god if they die there.*
+
+**The Hook**
+A surprising number of echos keep reappearing, well-armed, to harass adventurers. Seems to be centred on this rundown tower but anyone who investigates ends up an echo.
+
+**The Challenge**
+- Getting past the traps and into the tower
+- Battling through the tower`
+- Necromancer boss fight
+
+**The reward**
+- information 
+- fame
+- the necromancer's hoard
 
 
 ### 17 April session at Kirk and Andy's

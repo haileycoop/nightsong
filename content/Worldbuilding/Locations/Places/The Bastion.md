@@ -2,6 +2,9 @@
 type: location
 oneliner:
 ---
+> **Spoilers for Players - Turn Back!** This is the Worldbuilding section, full of secrets
+> MENU: | [[content/Worldbuilding/index|Home]] |
+
 ### Summary
 
 During the period of he Bastion emerged as a collaborative effort, drawing upon the strengths of various races to create a beacon of hope amidst Ondra's challenges. It was a place to eventually rebuild the basis for a technological society, over the course of many generations.

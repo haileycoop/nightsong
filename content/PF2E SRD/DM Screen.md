@@ -8,7 +8,7 @@ obsidianUIMode: preview
 > [[Burrow]] 
 > [[Cast a Spell]]; [[Crawl]] 
 > [[Delay]]; [[Dismiss]]; [[Drop Prone]] 
-> [[Escape]] 
+> [[content/PF2E SRD/Actions/Escape]] 
 > [[2-Mechanics/Character Building/Actions/Fly|Fly]] 
 > [[Grab an Edge]]; [[Grapple]]  
 > [[Interact]] 
