@@ -7,7 +7,7 @@ This page provides updates on what is happening in the [[content/index|current c
 
 ## Introduction
 
-The campaign has four players, and we are using the free archetype rules, allowing most of the characters to be multiclassed.
+The campaign has four players, and we are using the free archetype rules, allowing most of the characters to be multi-classed.
 
 ### Characters
 
